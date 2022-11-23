@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Datta Magar
 - 👀 I’m interested in Open Source Development 
 - 🌱 I’m currently learning DevOps 
-- 💞️ I’m looking to collaborate on Graphics Designing 
+- 💞️ I’m looking to collaborate on Graphics Designing, Web Dev.
 - 📫 How to reach me https://datta-magar.github.io/
 
 <!---
