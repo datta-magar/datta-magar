@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Datta Magar
-- 👀 I’m interested in Open Source Development 
-- 🌱 I’m currently learning DevOps 
-- 💞️ I’m looking to collaborate on Graphics Designing, Web Dev, Data Science.
+- 👀 Open source collab is at ❤
+- 🌱 I’m Currently working on project Olympics-x-Data 
+- 💞️ I’m looking to collaborate on Graphics Designing, Web Dev, Data Science & Devops.
 - 📫 To reach me https://datta-magar.github.io/
 
 <!---
