@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Datta Magar
-- 👀 Open source collab is at ❤
-- 🌱 I’m Currently working on project Olympics-x-Data 
+- 👋 Hi, I’m Datta Magar here's my insights.
+- 👀 Open source collab is at ❤.
+- 🌱 I’m currently working on project Olympics-x-Data...
 - 💞️ I’m looking to collaborate on Graphics Designing, Web Dev, Data Science & Devops.
 - 📫 To reach me https://datta-magar.github.io/
 
