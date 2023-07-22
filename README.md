@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fd418e&center=true&multiline=true&width=900&size=40&lines=Hello+World,+I'm+Datta+👻++++++++++)](https://git.io/typing-svg)
 
  <div align="center"> 
-  <a href = "mailto: cveloso0808@gmail.com" target="_blank">
+  <a href = "mailto: dattamagar211@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
    <a href="https://datta-magar.github.io/" target="_blank">
