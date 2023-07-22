@@ -1,11 +1,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fd418e&center=true&multiline=true&width=900&size=40&lines=Hello+World,+I'm+Datta+👻++++++++++)](https://git.io/typing-svg)
+   </br>
+ <div align="center"> 
+- 👀 Open source collab is at ❤.  </div>
+<div align="center"> 
+- 🌱 I’m currently working on project Olympics-x-Data...</div>
+<div align="center">
+- 💞️ I’m looking to collaborate on Graphics Designing, Web Dev, Data Science & Devops.</div>
 
-- 👀 Open source collab is at ❤.
-- 🌱 I’m currently working on project Olympics-x-Data...
-- 💞️ I’m looking to collaborate on Graphics Designing, Web Dev, Data Science & Devops.
-- 📫 To reach me https://datta-magar.github.io/
-
+  </br>
 <!---
 datta-magar/datta-magar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
