@@ -6,7 +6,7 @@
 <div align="center"> 
 - 🌱 I’m currently working on project class7_llm_agent...</div>
 <div align="center">
-- 💞️ I’m looking to collaborate on Data Science Gen AI & Devops</div>
+- 💞️ I’m looking to collaborate on Data Science | Gen AI & Devops</div>
 <div align="center">
 - 🕸️ Sometimes I do web stuff</div>
 <div align="center">
