@@ -4,9 +4,9 @@
  <div align="center"> 
 - 👀 Open source collab is at ❤  </div>
 <div align="center"> 
-- 🌱 I’m currently working on project Olympics-x-Data...</div>
+- 🌱 I’m currently working on project class7_llm_agent...</div>
 <div align="center">
-- 💞️ I’m looking to collaborate on Data Science & Devops</div>
+- 💞️ I’m looking to collaborate on Data Science Gen AI & Devops</div>
 <div align="center">
 - 🕸️ Sometimes I do web stuff</div>
 <div align="center">
