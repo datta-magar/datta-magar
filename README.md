@@ -1,5 +1,3 @@
-Here's an updated version of your GitHub profile README based on the content from the file you provided:
-
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fd418e&center=true&multiline=true&width=900&size=40&lines=Hello+World,+I'm+Datta+👻++++++++++)](https://git.io/typing-svg)
