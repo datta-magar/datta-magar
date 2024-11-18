@@ -20,8 +20,8 @@
 
 ---
 
-### 📧 Contact Me
 <div align="center"> 
+### 📧 Contact Me
   <a href="mailto:dattamagar211@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
