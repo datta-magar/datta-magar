@@ -1,8 +1,6 @@
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fd418e&center=true&multiline=true&width=450&size=20&lines=Hello+World,+I'm+Datta+👻++++++++++)](https://git.io/typing-svg)
-
-</br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fd418e&center=true&multiline=true&width=900&size=20&lines=Hello+World,+I'm+Datta+👻++++++++++)](https://git.io/typing-svg)
 <div align="center"> 
 ------------ 👀 Open source collaboration is at ❤ ------------
 </div>
@@ -13,7 +11,7 @@
 - 💞️ Looking to collaborate on **Data Science | Generative AI | DevOps | Cybersecurity** -
 </div>
 <div align="center">
------------- 🕸️ Sometimes, I dabble in **web development** ------------
+------- 🕸️ Sometimes, I dabble in **web development** -------
 </div>
 
 </br>
