@@ -1,6 +1,6 @@
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fd418e&center=true&multiline=true&width=900&size=40&lines=Hello+World,+I'm+Datta+👻++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fd418e&center=true&multiline=true&width=900&size=20&lines=Hello+World,+I'm+Datta+👻++++++++++)](https://git.io/typing-svg)
 
 </br>
 <div align="center"> 
