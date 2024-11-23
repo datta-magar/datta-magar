@@ -5,13 +5,13 @@
 ------------ 👀 Open source collaboration is at ❤ ------------
 </div>
 <div align="center"> 
-- 🌱 I’m currently working on **class7_llm_agent** and developing scalable data solutions with **GCP and Python Gen AI** -
+- 🌱 I’m currently working on class7_llm_agent and developing scalable data solutions with GCP and Python Gen AI -
 </div>
 <div align="center">
-- 💞️ Looking to collaborate on **Data Science | Generative AI | DevOps | Cybersecurity** -
+- 💞️ Looking to collaborate on **Data Science | Generative AI | DevOps -
 </div>
 <div align="center">
-------- 🕸️ Sometimes, I dabble in **web development** -------
+------- 🕸️ Sometimes, I dabble in web development -------
 </div>
 
 </br>
