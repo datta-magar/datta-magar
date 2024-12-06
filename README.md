@@ -5,7 +5,7 @@
 ------------ 👀 Open source collaboration is at ❤ ------------
 </div>
 <div align="center"> 
-- 🌱 I’m currently working on class7_llm_agent and developing scalable data solutions with GCP and Python Gen AI -
+- 🌱 I’m currently working on LLM fine-tuning and prompt engineering and developing scalable data solutions with GCP and Python Gen AI -
 </div>
 <div align="center">
 - 💞️ Looking to collaborate on **Data Science | Generative AI | DevOps -
