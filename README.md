@@ -2,7 +2,6 @@
 
 # 👋 Datta Magar
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fd418e&center=true&multiline=true&width=900&size=20&lines=Building+the+future+with+AI+and+Data+Engineering+🚀)](https://git.io/typing-svg)
-
 <p align="center">
     <em>Open Source Enthusiast | AI Engineer | Full Stack Developer</em>
 </p>
