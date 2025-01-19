@@ -84,6 +84,6 @@
 
 ---
 <div align="center">
-    <h3>💫 Always learning, always growing!</h3>
+    <h3>💫 Always learning, always growing! 🦾</h3>
     <p><i>Open to exciting opportunities and collaborations</i></p>
 </div>
