@@ -3,7 +3,7 @@
 # 👋 Datta Magar
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fd418e&center=true&multiline=true&width=900&size=20&lines=Building+the+future+with+AI+and+Data+Engineering+🚀)](https://git.io/typing-svg)
 <p align="center">
-    <em>Open Source Enthusiast | AI Engineer | Full Stack Developer</em>
+    <em>Open Source Enthusiast | AI Engineer | Sometime I do Web stuff</em>
 </p>
 
 [![Email](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dattamagar211@gmail.com)
