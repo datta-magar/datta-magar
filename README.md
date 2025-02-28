@@ -16,7 +16,7 @@
 - 🤖 LLM Fine-tuning & Prompt Engineering
 - ☁️ Scalable Data Solutions with GCP
 - 🐍 Python-based Generative AI Development
-- 🌐 Full Stack Development
+- 🌐 Web Development
 
 ## 💼 Professional Experience
 
