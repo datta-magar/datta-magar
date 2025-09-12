@@ -2,7 +2,7 @@
 
 # 👋 Datta Magar | SAP VIM OpenText Consultant
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2F81F7&center=true&vCenter=true&width=900&lines=SAP+OpenText+VIM+Consultant+%7C+BOT+CORE+AMS+Specialist;Automating+Invoice+Management+Processes+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2F81F7&center=true&vCenter=true&width=900&lines=SAP+OpenText+VIM+Consultant+%7C+;Automating+Invoice+Management+Processes+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <p align="center">
     <em>Passionate SAP Consultant | Driving Efficiency in Vendor Invoice Management with OpenText VIM</em>
@@ -39,9 +39,8 @@
 
 | Certification | Issuer | Year |
 |--------------|--------|------|
-| SAP OpenText VIM (Project Experience) | Capgemini | 2023–2025 |
-| Azure AI Engineer Associate | Microsoft | 2023 |
-| Associate Cloud Engineer | Google Cloud | 2022 |
+| Azure AI Engineer Associate | Microsoft | 2024 |
+| Associate Cloud Engineer | Google Cloud | 2024 |
 | AWS Machine Learning Foundations | Udacity | 2022 |
 
 <div align="center">
@@ -70,7 +69,7 @@
 
 ---
 
-<h3>💫 Always Learning, Always Growing in SAP VIM & Enterprise Automation 🚀</h3>
+<h3>💫 Always Learning, Always Growing 🚀</h3>
 <p><i>Open to SAP consulting opportunities and collaborations</i></p>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=datta-magar)
