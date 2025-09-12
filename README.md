@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Datta Magar | SAP VIM OpenText Consultant
+# 👋 Datta Magar
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2F81F7&center=true&vCenter=true&width=900&lines=SAP+OpenText+VIM+Consultant+%7C+;Automating+Invoice+Management+Processes+%F0%9F%9A%80)](https://git.io/typing-svg)
 
