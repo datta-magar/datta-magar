@@ -29,7 +29,7 @@
 - ⚡ Automated **COA (Chart of Accounts) uploads** in SAP VIM using Python, reducing manual workload by 50%.
 - 🔄 Customized **approval workflows and exception handling** to improve invoice processing efficiency.
 - 📑 Provided **L2/L3 AMS support** for SAP VIM ensuring system stability and compliance with business SLAs.
-- 🤝 Collaborated with **Finance & Accounting teams** for SAP FI/CO integration and process improvements.
+- 🤝 Collaborated with **Finance & Accounting And ABAP teams** for SAP FI/CO integration and process improvements.
 
 ### 🔒 Cyber Security Research Intern | SISTMR Australia *(Jul 2022 – Jan 2023)*
 - 🕵️ Researched DDoS attack vectors and data recovery strategies.
