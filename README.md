@@ -47,12 +47,6 @@
 
 ---
 
-### 🔒 **Cyber Security Research Intern | SISTMR Australia (Jul 2022 – Jan 2023)**
-- Researched **DDoS attack vectors** and data recovery strategies.  
-- Delivered vulnerability assessments and security recommendations.  
-
----
-
 ## 🏅 Professional Certifications
 
 | Certification | Issuer | Year |
