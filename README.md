@@ -2,7 +2,7 @@
 
 # 👋 Datta Magar
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2F81F7&center=true&vCenter=true&width=900&lines=SAP+OpenText+VIM+Consultant+%7C+Automation+Developer;Python+BOT+Developer+%7C+IDoc+Error+Handling;Specialized+in+PO+%26+Non-PO+Invoice+Processing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2F81F7&center=true&vCenter=true&width=900&lines=SAP+OpenText+VIM+Consultant+%7C+;Python+BOT+Developer+%7C+;Specialized+in+PO+%26+Non-PO+Invoice+Processing)](https://git.io/typing-svg)
 
 <p align="center">
     <em>Detail-oriented SAP OpenText VIM Consultant | Automating Invoice Management & Resolving Business Exceptions</em>
